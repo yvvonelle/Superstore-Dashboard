@@ -4,6 +4,7 @@
 This project transforms  Superstore transactional data into a high-impact interactive dashboard. The objective was to move beyond basic reporting and uncover the "story" within the data: identifying which products drive genuine profit, how regional trends shift, and the specific threshold where discounting begins to destroy value.
 
 This analysis provides a data-driven look at retail health, offering critical insights for inventory optimization and regional pricing strategies.
+<a href = "https://github.com/yvvonelle/Superstore-Dashboard/blob/main/dashboard.png"> Dashboard </a>
 
 ---
 
